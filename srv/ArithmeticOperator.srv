@@ -1,0 +1,6 @@
+float64 num1
+float64 num2
+string operation_kind
+---
+bool is_success
+float64 returnval
